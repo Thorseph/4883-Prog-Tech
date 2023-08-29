@@ -1,0 +1,12 @@
+## Readme Structure for Assignments (from [here](https://github.com/rugbyprof/4883-Programming_Techniques/blob/master/Resources/03-Readmees/README.md))
+- Top
+  - Project title, problem number
+  - Student name
+  - Description of project/assignment
+- Table of files (number, link to file, short description)
+- Instructions
+  - Information about the code
+  - What is needed to run the code
+- Citations
+  - Source
+  - How it was used to help
